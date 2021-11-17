@@ -32,6 +32,9 @@ dd {
 #two{
   font-family: 'El Messiri', sans-serif;
 }
+html.wf-loading * {
+  opacity: 0;
+}
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: right;
