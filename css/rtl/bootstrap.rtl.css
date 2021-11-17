@@ -26,6 +26,9 @@ dd {
   margin-right: 0;
   margin-left: none;
 }
+#one{
+  font-family: 'Changa', sans-serif;
+}
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: right;
