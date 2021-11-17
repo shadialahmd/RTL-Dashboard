@@ -29,6 +29,9 @@ dd {
 #one{
   font-family: 'Changa', sans-serif;
 }
+#two{
+  font-family: 'El Messiri', sans-serif;
+}
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: right;
